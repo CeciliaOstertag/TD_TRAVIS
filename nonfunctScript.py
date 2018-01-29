@@ -1,2 +1,2 @@
 def goodbye(msg):
-  return("Goodpie "+msg)
+  return "Goodbye "+msg
